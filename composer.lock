@@ -1,0 +1,25 @@
+{
+    "hash": "d3b639e453f3097821b4a212be9e50f2",
+    "packages": [
+        {
+            "package": "symfony/console",
+            "version": "v2.1.0"
+        },
+        {
+            "package": "symfony/filesystem",
+            "version": "v2.1.0"
+        },
+        {
+            "package": "symfony/finder",
+            "version": "v2.1.0"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ]
+}
